@@ -1,4 +1,4 @@
-# 📈 Near Real-Time Stock Market Analysis – Serverless Data Pipeline on AWS
+# Near Real-Time Stock Market Analysis – Serverless Data Pipeline on AWS
 
 ## Overview  
 
@@ -245,5 +245,6 @@ Subscribers receive immediate notifications when significant market movements oc
 This project demonstrates how a complete near real-time data analytics system can be built using AWS managed services alone.
 
 By layering ingestion, processing, storage, analytics, and alerting in a serverless architecture, the pipeline remains scalable, cost-effective, and easy to maintain.
+
 
 The same design principles used here apply directly to financial systems, IoT pipelines, monitoring platforms, and large-scale event processing workloads.
