@@ -16,8 +16,6 @@ The system follows modern cloud-native best practices including:
 
 ## High-Level Architecture  
 
-**Python Producer → Amazon Kinesis → AWS Lambda → DynamoDB & Amazon S3 → AWS Glue → Amazon Athena → Trend Analysis Lambda → SNS Alerts**
-
 ![Stock data pipeline architecture](images/stock-market-analysis-architecture-diagram.png)
 
 1. A Python script streams near real-time stock market data.  
